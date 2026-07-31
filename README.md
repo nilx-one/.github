@@ -2,7 +2,7 @@
 
 **A peer-to-peer social protocol where the smallest unit of truth is a signature between two people.**
 
-[Product](https://app.nilx.one) · [Protocol repository](https://github.com/0-x1/0x1) · status: `spec / pre-alpha`
+[Protocol repository](https://github.com/0-x1/0x1) · status: `spec / pre-alpha`
 
 ---
 
@@ -134,5 +134,5 @@ Interested in the cryptography, mechanism design, or finding the place where eit
 
 ---
 
-*Created by [0x0sky](https://github.com/0x0sky). Part of [nilx.one](https://app.nilx.one).*  
+*Created by [0x0sky](https://github.com/0x0sky).*  
 *Two signatures. One line. Nothing true without both.*
