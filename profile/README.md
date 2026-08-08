@@ -1,33 +1,47 @@
 # nilx.one
 
-**A canonical index of the identities, organizations, and products rooted in [0x0sky](https://github.com/0x0sky).**
+**A canonical index of identities, organizations, protocols, and products in the wider aiaiaiai tech. ecosystem.**
 
-`nilx.one` is the shared public namespace. It is not a synonym for `0x1`.
+## Organization
+
+`nilx.one` is a child organization / namespace in the **aiaiaiai tech. / 4xAI tech.** ecosystem.
+
+- **Parent organization:** [aiaiaiai tech.](https://github.com/aiaiaiaitech)
+- **Owner:** [0x0sky](https://github.com/0x0sky)
+- **Role:** protocol and ecosystem namespace
+
+This relationship is an organizational and ownership model rather than a GitHub-native hierarchy. GitHub represents `nilx-one` and `aiaiaiaitech` as peer organization namespaces.
+
+`nilx.one` is not a synonym for `0x1`. The namespace can contain multiple protocol, ecosystem, and documentation artifacts over time.
 
 ## Structure
 
 ### 0x0sky
 
-The personal entity and root identity. Ideas, values, and long-term direction begin here before becoming organizations, systems, or products.
+The owner and root personal identity. Personal projects remain outside the corporate hierarchy unless explicitly declared otherwise.
 
 ### aiaiaiai tech.
 
-A research and engineering organization for exploring new ideas, building core technologies, and turning strong concepts into implementable systems.
+The parent research and engineering organization for non-personal work in the ecosystem.
 
 ### 0xda-market
 
-A digital commerce organization focused on useful products and infrastructure for creators, developers, and businesses.
+A sibling child organization under aiaiaiai tech., focused on digital commerce infrastructure.
+
+### nilx.one
+
+This organization / namespace. It groups protocol and ecosystem artifacts under the aiaiaiai tech. parent model.
 
 ### 0x1
 
 A protocol product for trusted digital relationships. It defines how people, businesses, software, and services can establish verifiable connections without treating a centralized platform as the sole source of truth.
 
-`0x1` is **not** a GitHub organization or a separate company identity. Its canonical repository is [`nilx-one/0x1`](https://github.com/nilx-one/0x1).
+`0x1` is **not** a separate company identity. Its canonical repository is [`nilx-one/0x1`](https://github.com/nilx-one/0x1).
 
 ## Repositories
 
 - [`0x1`](https://github.com/nilx-one/0x1) — protocol specification and product architecture.
-- [`mind`](https://github.com/nilx-one/mind) — neutral baseline contract for versioned context repositories.
+- [`mind`](https://github.com/nilx-one/mind) — versioned organization and namespace context.
 
 ## Public surfaces
 
@@ -36,4 +50,4 @@ A protocol product for trusted digital relationships. It defines how people, bus
 
 ---
 
-*Created by [0x0sky](https://github.com/0x0sky).*
+*Owned by [0x0sky](https://github.com/0x0sky). Parent organization: [aiaiaiai tech.](https://github.com/aiaiaiaitech).*
