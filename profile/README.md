@@ -1,16 +1,26 @@
+<div align="center">
+
+<a href="https://github.com/nilx-one/mind/blob/master/assets/visual/nilx-one/compact-emblem.svg">
+  <img src="https://raw.githubusercontent.com/nilx-one/mind/master/assets/visual/nilx-one/compact-emblem.svg" width="160" alt="nilx.one compact emblem">
+</a>
+
 # nilx.one
 
-**A canonical index of identities, organizations, protocols, and products in the wider aiaiaiai tech. ecosystem.**
+**A canonical index of identities, organizations, protocols, and products in the wider aiaiaiai ecosystem.**
+
+</div>
 
 ## Organization
 
-`nilx.one` is a child organization / namespace in the **aiaiaiai tech. / 4xAI tech.** ecosystem.
+`nilx.one` is a child organization / namespace in the **aiaiaiai / 4xAI** ecosystem.
 
-- **Parent organization:** [aiaiaiai tech.](https://github.com/aiaiaiaitech)
+- **Parent organization:** [aiaiaiai](https://github.com/aiaiaiai-org)
 - **Owner:** [0x0sky](https://github.com/0x0sky)
 - **Role:** protocol and ecosystem namespace
 
-This relationship is an organizational and ownership model rather than a GitHub-native hierarchy. GitHub represents `nilx-one` and `aiaiaiaitech` as peer organization namespaces.
+This relationship is an organizational and ownership model rather than a GitHub-native hierarchy. GitHub represents `nilx-one` and `aiaiaiai-org` as peer organization namespaces.
+
+The emblem shown above is projected from the canonical visual source in [`nilx-one/mind`](https://github.com/nilx-one/mind/tree/master/assets/visual/nilx-one); this profile is a presentation surface, not the identity authority.
 
 `nilx.one` is not a synonym for `0x1`. The namespace can contain multiple protocol, ecosystem, and documentation artifacts over time.
 
@@ -20,17 +30,17 @@ This relationship is an organizational and ownership model rather than a GitHub-
 
 The owner and root personal identity. Personal projects remain outside the corporate hierarchy unless explicitly declared otherwise.
 
-### aiaiaiai tech.
+### aiaiaiai
 
 The parent research and engineering organization for non-personal work in the ecosystem.
 
 ### 0xda-market
 
-A sibling child organization under aiaiaiai tech., focused on digital commerce infrastructure.
+A sibling child organization under aiaiaiai, focused on digital commerce infrastructure.
 
 ### nilx.one
 
-This organization / namespace. It groups protocol and ecosystem artifacts under the aiaiaiai tech. parent model.
+This organization / namespace. It groups protocol and ecosystem artifacts under the aiaiaiai parent model.
 
 ### 0x1
 
@@ -50,4 +60,6 @@ A protocol product for trusted digital relationships. It defines how people, bus
 
 ---
 
-*Owned by [0x0sky](https://github.com/0x0sky). Parent organization: [aiaiaiai tech.](https://github.com/aiaiaiaitech).*
+*Owned by [0x0sky](https://github.com/0x0sky). Parent organization: [aiaiaiai](https://github.com/aiaiaiai-org).*
+
+<!-- © 2026 aiaiaiai · aiaiaiai.org -->
