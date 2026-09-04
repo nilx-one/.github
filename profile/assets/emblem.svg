@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- © 2026 aiaiaiai · aiaiaiai.org -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+  <title id="title">nilx.one emblem</title>
+  <desc id="desc">Exact vector reconstruction of the current yellow-green block emblem.</desc>
+  <g fill="#CCCE52" shape-rendering="crispEdges">
+    <rect x="35" y="35" width="71" height="141"/>
+    <rect x="105" y="105" width="71" height="71"/>
+    <rect x="175" y="35" width="71" height="71"/>
+    <rect x="245" y="105" width="141" height="71"/>
+    <rect x="315" y="35" width="71" height="141"/>
+    <rect x="175" y="175" width="71" height="71"/>
+    <rect x="105" y="245" width="71" height="141"/>
+    <rect x="245" y="245" width="71" height="141"/>
+  </g>
+</svg>
+
