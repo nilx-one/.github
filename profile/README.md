@@ -41,3 +41,5 @@ A child organization of [aiaiaiai tech.](https://github.com/aiaiaiai-org) and th
 [Parent: aiaiaiai tech.](https://github.com/aiaiaiai-org) · [Owner: 0x0sky](https://github.com/0x0sky) · [Sibling: 0xda-market](https://github.com/0xda-market)
 
 </div>
+
+<!-- © 2026 aiaiaiai · aiaiaiai.org -->
