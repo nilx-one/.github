@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/emblem.svg" width="144" alt="nilx.one emblem">
+<img src="./assets/emblem.png" width="144" alt="nilx.one glass 01 emblem">
 
 # nilx.one
 
