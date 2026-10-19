@@ -6,7 +6,7 @@
 
 **Protocol and ecosystem namespace for identities, pairwise interactions, and verifiable digital systems.**
 
-A child organization of [aiaiaiai tech.](https://github.com/aiaiaiai-org) and the home of the [`0x1`](https://github.com/nilx-one/0x1) protocol product.
+Home of the [`0x1`](https://github.com/nilx-one/0x1) protocol product.
 
 [nilx.one](https://nilx.one) · [0x1](https://github.com/nilx-one/0x1) · [mind](https://github.com/nilx-one/mind)
 
@@ -38,7 +38,7 @@ A child organization of [aiaiaiai tech.](https://github.com/aiaiaiai-org) and th
 
 <div align="center">
 
-[Parent: aiaiaiai tech.](https://github.com/aiaiaiai-org) · [Owner: 0x0sky](https://github.com/0x0sky) · [Sibling: 0xda-market](https://github.com/0xda-market)
+[Owner: 0x0sky](https://github.com/0x0sky) · [Sibling: 0xda-market](https://github.com/0xda-market)
 
 </div>
 
